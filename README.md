@@ -28,7 +28,6 @@ cd client && yarn install
 ```sh
 cd server
 pipenv install
-pip install -r requirements.txt
 ```
 
 ## Usage
@@ -44,10 +43,11 @@ cd client && yarn start
 ```sh
 cd server
 pipenv shell
+pip install -r requirements.txt
 flask run
 ```
 
-<p>You will need to set two environment varialble</p>
+<p>You will need to set two environment variable</p>
 
 ```sh
 FLASK_APP=server.py
