@@ -14,7 +14,7 @@
 
 > Simple React App and Flask Server to pull in stories from Hackernews
 
-### 🏠 [Homepage](https://github.com/dswhitely1/hackernews-udemy-python-course/blob/master/README.m)
+### 🏠 [Homepage](https://github.com/dswhitely1/hackernews-udemy-python-course/blob/master/README.md)
 
 ## Install
 
